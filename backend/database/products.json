@@ -1,0 +1,37 @@
+[
+    {
+        "id": 0,
+        "name": "Laptop",
+        "price": 100,
+        "img": "https://cdn.mos.cms.futurecdn.net/6t8Zh249QiFmVnkQdCCtHK-970-80.jpg.webp",
+        "description": "beautiful Laptop"
+    },
+    {
+        "id": 1,
+        "name": "Desktop",
+        "price": 500,
+        "img": "https://www.hellotech.com/blog/wp-content/uploads/2020/10/best-desktop-computers-1-770x462.jpg",
+        "description": "beautiful Desktop"
+    },
+    {
+        "id": 2,
+        "name": "Earphones",
+        "price": 50,
+        "img": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80",
+        "description": "beautiful Earphones"
+    },
+    {
+        "id": 3,
+        "name": "Keyboard",
+        "price": 10,
+        "img": "https://static.bhphoto.com/images/images500x500/1529950038_1418797.jpg",
+        "description": "beautiful Keyboard"
+    },
+    {
+        "id": 4,
+        "name": "Monitor",
+        "price": 70,
+        "img": "https://images.officeworks.com.au/api/2/img/https://s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/IN4794710_.jpg/resize?size=600&auth=MjA5OTcwODkwMg__",
+        "description": "beautiful Monitor"
+    }
+]

@@ -1,0 +1,22 @@
+{
+  "name": "angular-loginapp",
+  "version": "1.0.0",
+  "description": "my first angular app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "nodemon --watch backend --exec node backend/server.js",
+    "prod": "npm install && npm install --also=dev"
+  },
+  "author": "Salvatore De Rosa",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
